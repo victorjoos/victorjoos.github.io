@@ -12,6 +12,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
     "paper-header-panel": "PolymerElements/paper-header-panel#^1.0.0",
-    "paper-material": "PolymerElements/paper-material#^1.0.0"
+    "paper-material": "PolymerElements/paper-material#^1.0.0",
+    "paper-toolbar": "PolymerElements/paper-toolbar#^1.0.0"
   }
 }
